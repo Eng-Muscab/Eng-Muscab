@@ -13,7 +13,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eng-muscab" alt="eng-muscab" /></a> </p>
 
-- 🔭 I’m currently working on **Tailor Managment System**
+- 🔭 I’m currently working on **Building new version of me !**
 
 - 🌱 I’m currently learning **Next.js**
 
