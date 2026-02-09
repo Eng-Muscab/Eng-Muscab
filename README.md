@@ -25,7 +25,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/muscab bashir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muscab bashir" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/muscab bashir](https://www.linkedin.com/in/muscab-bashir-155b58356/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Moscab Bashir" height="30" width="40" /></a>
 <a href="https://fb.com/muz'ab updulaahi hassan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muz'ab updulaahi hassan" height="30" width="40" /></a>
 <a href="https://instagram.com/muz'ab updulaahi hassan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muz'ab updulaahi hassan" height="30" width="40" /></a>
 </p>
