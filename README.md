@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Moscab Bashir Hassan</h1>
-<div style="display: flex; align-items: center; justify-content: space-between;">
-  <h3 align="left" style="flex: 1;">
+<div align="center">
+  <h3 align="center">
     A passionate full-stack developer from Somalia.
   </h3>
   <img 
@@ -10,22 +10,21 @@
   />
 </div>
 
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eng-muscab" alt="eng-muscab" /></a> </p>
 
-- 🔭 I’m currently working on **Building new version of me !**
+- 🔭 I’m currently working on **Building new version of me!**
 
 - 🌱 I’m currently learning **Next.js**
 
-- 💬 Ask me about **Mern Stack , PHP, Python**
+- 💬 Ask me about **Mern Stack, PHP, Python**
 
 - 📫 How to reach me **moscabbashir@gmail.com**
 
-- ⚡ Fun fact **🧠 I once broke my app by forgetting a single semicolon.*
+- ⚡ Fun fact **🧠 I once broke my app by forgetting a single semicolon.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/muscab bashir](https://www.linkedin.com/in/muscab-bashir-155b58356/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Moscab Bashir" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/muscab-bashir-155b58356/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Moscab Bashir" height="30" width="40" /></a>
 <a href="https://fb.com/muz'ab updulaahi hassan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muz'ab updulaahi hassan" height="30" width="40" /></a>
 <a href="https://instagram.com/muz'ab updulaahi hassan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muz'ab updulaahi hassan" height="30" width="40" /></a>
 </p>
