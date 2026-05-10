@@ -49,14 +49,6 @@ fun_fact    : "I once broke my app by forgetting a single semicolon 😄"
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<a href="https://github.com/eng-muscab">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=eng-muscab&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eng-muscab&layout=compact&langs_count=10&theme=radical&hide_border=true" alt="Top Languages" />
-</a>
-
-<br/><br/>
-
 <a href="https://git.io/streak-stats">
   <img src="https://streak-stats.demolab.com?user=eng-muscab&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </a>
